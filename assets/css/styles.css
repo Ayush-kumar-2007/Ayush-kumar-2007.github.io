@@ -14,10 +14,10 @@ body {
   /* background-image: url("bg.png"); */
   font-size: 14px;
   /* padding: 30px; */
-  background: #e5ecec;
+  /* background: #e5ecec; */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 h1,
 h2,
